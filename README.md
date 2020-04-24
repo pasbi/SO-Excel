@@ -17,7 +17,7 @@ Answers on SO are licensed by SO under the CC BY-SA 3.0 license.
 
 ## TODO
 
-A list of questions which may qualify for this collection
+A list of answers which may qualify for this collection
 
 https://stackoverflow.com/a/20765054
 
