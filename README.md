@@ -22,3 +22,4 @@ A list of answers which may qualify for this collection
 - https://stackoverflow.com/a/20765054
 - https://stackoverflow.com/a/12122735/
 - https://physics.stackexchange.com/a/111238
+- https://physics.stackexchange.com/a/551575
