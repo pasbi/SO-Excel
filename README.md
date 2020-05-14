@@ -14,6 +14,19 @@ in the other cases some explanation is probably preferable.
 
 Answers on SO are licensed by SO under the CC BY-SA 3.0 license.
 
+## Idea
+
+Text books are usually written such that a person not knowing the topic before, understands the topic after *carefully* reading that very book.
+The problem is begind the word *carefully*.
+It happens surprisingly often, that not only one particular, but many (if not all) text books on a topic fail to explicitely explain a crucial concept.
+This is kind of a self-fulfilling prophecy effect: Maybe the concept is almost obvious, hence no text book explains it, hence it becomes mystical among students.
+The students wonder why this mystical concept is never explained and the authors wonder why students make such a big deal out of that obvious concept.
+
+I think this is where the Q/A-format excels.
+It is certainly not complete in any aspect, but you will presumably learn something (you'd never wanted to know) while browsing it.
+And browsing Q/A is much more fun than browsing text books since the writing style is much more compact.
+Ideally, you learn the principal concept (i.e., the idea) in an answer and then, if you want to, look up the details in your favourite text book.
+
 
 ## TODO
 
