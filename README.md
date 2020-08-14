@@ -38,3 +38,4 @@ A list of answers which may qualify for this collection
 - https://physics.stackexchange.com/a/551575
 - https://stackoverflow.com/a/19830820/
 - https://physics.stackexchange.com/a/565558/
+- https://physics.stackexchange.com/questions/572565/
